@@ -41,8 +41,8 @@ _`In other words`**`, PoPwallet is anti-multi-wallet protocol!`**_
 
 ## Quick links
 
-{% content-ref url="api/listup.md" %}
-[listup.md](api/listup.md)
+{% content-ref url="api/listup/" %}
+[listup](api/listup/)
 {% endcontent-ref %}
 
 {% content-ref url="api/api-common-guide.md" %}

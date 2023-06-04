@@ -4,7 +4,10 @@
 
 ## API
 
-* [Listup](api/listup.md)
+* [Listup](api/listup/README.md)
+  * [register](api/listup/register.md)
+  * [getWalletList](api/listup/getwalletlist.md)
+  * [isWalletExist](api/listup/iswalletexist.md)
 * [API Common Guide](api/api-common-guide.md)
 
 ***

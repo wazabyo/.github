@@ -34,7 +34,7 @@ A worldapp is an **unique**, biometrically authenticated proof of personhood tha
 
 **We can simplify authentication between dapps and on-chain users**. Users don't need to authenticate through the app every time they access another dapp, and the dapp only needs to verify that the address is authenticated using our API **without any transactions**. It's incredibly **simple & fast** protocol for providers and users alike.
 
-**Users can assign an address to each chainid** permanently**.** (with a wallet connection, of course!!) This should be linked very **carefully** and in most cases **irreversibly** (unlinking it for reasons like lost mnemonics would be a huge effort).
+The difference between our project and POAP is that it cannot be traded and cannot be migrated. **Users can assign an address to each chainid** permanently**.** (with a wallet connection, of course!!) This should be linked very **carefully** and in most cases **irreversibly** (unlinking it for reasons like lost mnemonics would be a huge effort).
 
 \
 _`In other words`**`, PoPwallet is anti-multi-wallet protocol!`**_
